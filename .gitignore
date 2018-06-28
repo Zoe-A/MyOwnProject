@@ -1,0 +1,14 @@
+# IntelliJ
+*.iml
+.idea/
+out/
+
+# Gradle files
+gradlew*
+gradle/
+.gradle/
+build/
+
+
+# for Mac OS
+.DS_Store
